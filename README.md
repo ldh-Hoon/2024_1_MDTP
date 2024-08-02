@@ -12,6 +12,9 @@ MLP 모델 직접 구현 및 MNIST dataset 학습
 ### 과제3 (C언어)
 학습 개선 추가 구현(ReLU, Dropout, Momentum, NAG, data augmentation, warmup)
 
+![mnist](https://github.com/user-attachments/assets/cb1bb93f-8ea4-4925-ba44-711a56793103)
+
+
 ### 과제4 (python)
 Google Colab에서 pytorch를 사용하여 CNN 모델로 MNIST 학습
 
