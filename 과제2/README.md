@@ -2,4 +2,4 @@
 
 C언어
 
-MLP 모델로 MNIST dataset 학습 구현
+MLP 모델 직접 구현 및 MNIST dataset 학습
